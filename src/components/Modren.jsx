@@ -38,9 +38,6 @@ export default function Modren() {
                         </div>
                     </div>
                 </div>
-
-
-
             </div>
             
 
